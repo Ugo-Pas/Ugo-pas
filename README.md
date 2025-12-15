@@ -1,138 +1,55 @@
-# Ugo-Pas — Mes projets & expérimentations
+# Bonjour, moi c'est Ugo 👋
 
-[![Profile](https://img.shields.io/badge/profile-Ugo--Pas-blue)](https://github.com/Ugo-Pas)
-[![Licence](https://img.shields.io/badge/license-MIT-green)](#licence)
-[![Dernière mise à jour](https://img.shields.io/badge/dernier--commit-%E2%86%92-lightgrey)](https://github.com/Ugo-Pas/Ugo-pas/commits/main)
+Développeur passionné par le code propre et les projets utiles. J'aime apprendre de nouvelles technologies, contribuer à l'open source et transformer des idées en logiciels qui marchent.
 
-Bienvenue sur mon dépôt principal. Ce dépôt sert de vitrine et d'index pour mes projets, expérimentations et exemples de code. Chaque dossier représente généralement un projet autonome avec son propre README pour expliquer comment l'utiliser.
-
-## Table des matières
-
-- [Description](#description)
-- [Structure du dépôt](#structure-du-dépôt)
-- [Comment utiliser un projet](#comment-utiliser-un-projet)
-- [Technologies courantes](#technologies-courantes)
-- [Contribuer](#contribuer)
-- [Signalement de problèmes](#signalement-de-problèmes)
-- [Licence](#licence)
-- [Contact](#contact)
-- [Aide & scripts utiles](#aide--scripts-utiles)
-
-## Description
-
-Ce dépôt contient un ensemble de projets personnels et de démonstrations couvrant différents langages et outils. L'objectif est de partager des solutions, expérimentations et ressources que j'ai développées ou utilisées pour apprendre et résoudre des problèmes concrets.
-
-> Remarque : pour chaque projet, consultez le README du dossier correspondant pour les instructions détaillées d'installation et d'utilisation.
-
-## Structure du dépôt
-
-Structure type (adapter selon ce qui est présent dans le dépôt) :
-
-- /projet-1/        — Exemple : application web, script, etc.
-- /projet-2/        — Exemple : bot, outil CLI
-- /docs/            — Documentation partagée
-- /scripts/         — Scripts utilitaires (build, déploiement, etc.)
-- README.md         — Ce fichier
-- LICENSE           — Licence du dépôt (si présente)
-
-Ajoutez ici une liste courte des dossiers/ projets du dépôt. Exemple :
-
-- projet-web — Application fullstack en Node.js + React
-- automation — Scripts d'automatisation (bash / python)
-- exemples — Petits exemples et snippets
-
-(Remplacez ces exemples par la liste réelle des dossiers du dépôt.)
-
-## Comment utiliser un projet
-
-Chaque projet a son propre README. Méthode générale :
-
-1. Cloner le dépôt ou naviguer jusqu'au dossier du projet :
-   ```bash
-   git clone https://github.com/Ugo-Pas/Ugo-pas.git
-   cd Ugo-pas/projet-exemple
-   ```
-2. Lire le README du projet pour les dépendances et commandes.
-3. Installer les dépendances (exemples) :
-   - Node.js/npm :
-     ```bash
-     npm install
-     npm run start
-     ```
-   - Python (venv + pip) :
-     ```bash
-     python -m venv venv
-     source venv/bin/activate  # Linux/macOS
-     venv\Scripts\activate     # Windows
-     pip install -r requirements.txt
-     python main.py
-     ```
-
-## Technologies courantes
-
-Les projets dans ce dépôt utilisent (liste indicative — adaptez selon ce que vous utilisez) :
-
-- JavaScript / TypeScript (Node.js, React)
-- Python (scripts, data)
-- Bash / Shell
-- Docker (conteneurs)
-- SQL / NoSQL selon projet
-
-## Contribuer
-
-Contributions bienvenues — forks, issues et pull requests. Processus recommandé :
-
-1. Fork du dépôt
-2. Créer une branche descriptive : `feature/description` ou `fix/description`
-3. Faire vos changements avec un commit clair
-4. Ouvrir une pull request expliquant les changements
-
-Avant de contribuer, vérifiez le README du projet concerné pour des règles spécifiques. Respectez les bonnes pratiques : commits atomiques, messages clairs, tests si possible.
-
-## Signalement de problèmes
-
-Si vous trouvez un bug ou avez une suggestion :
-
-- Ouvrez une issue en détaillant :
-  - Ce que vous avez fait
-  - Ce que vous attendiez
-  - Ce qui s'est produit (logs, erreurs)
-  - Environnement (OS, versions)
-
-Merci d'indiquer la version ou le dossier concerné.
-
-## Licence
-
-Ce dépôt est, sauf indication contraire, placé sous licence MIT. Vérifiez le fichier `LICENSE` du dépôt pour confirmation.
-
-## Contact
-
-- GitHub : [Ugo-Pas](https://github.com/Ugo-Pas)
-- Email : (ajoutez votre mail ici si vous souhaitez être contacté)
-
-## Aide & scripts utiles
-
-- Badges (exemples) : modifiez les liens en fonction de vos actions CI ou statistiques
-  - Build : `https://img.shields.io/badge/build-passing-brightgreen`
-  - Licence : `https://img.shields.io/badge/license-MIT-green`
-
-- Script pour lister rapidement les dossiers-projets depuis la racine (Linux/macOS) :
-  ```bash
-  # liste les dossiers et leur README s'ils existent
-  for d in */ ; do
-    echo "## $d"
-    if [ -f "$d/README.md" ]; then
-      sed -n '1,6p' "$d/README.md"
-    fi
-    echo
-  done
-  ```
-
-- Exemple pour récupérer la liste publique de vos repos via l'API GitHub (requiert token si privé) :
-  ```bash
-  curl -s "https://api.github.com/users/Ugo-Pas/repos?per_page=100" | jq '.[].name'
-  ```
+[![Followers](https://img.shields.io/github/followers/Ugo-Pas?label=Suiveurs&style=social)](https://github.com/Ugo-Pas)
+[![Top Langs](https://img.shields.io/github/languages/top/Ugo-Pas/Ugo-pas?label=Langages%20principaux)](https://github.com/Ugo-Pas?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=Ugo-Pas&color=blue)](https://github.com/Ugo-Pas)
 
 ---
 
-Merci de visiter ce dépôt ! N'hésitez pas à explorer les dossiers, ouvrir une issue pour poser une question ou proposer une amélioration.
+## À propos de moi
+- 🔭 Je travaille sur : projets web et outils en [votre langage principal]
+- 🌱 J'apprends : [ex : TypeScript, Kubernetes, ML…]
+- 💬 Demandez-moi à propos de : architecture, APIs, bonnes pratiques
+- ⚡ Centre d'intérêt : automatisation, productivité, qualité du code
+
+---
+
+## Compétences
+- Langages : JavaScript, TypeScript, Python, (remplacez selon vos langages)
+- Frameworks & outils : Node.js, React, Express, Docker, Git
+- Tests & CI : Jest, GitHub Actions
+- Bonnes pratiques : TDD, revue de code, documentation
+
+---
+
+## Projets remarquables
+- [Ugo-pas](https://github.com/Ugo-Pas/Ugo-pas) — Dépôt principal / portfolio (ajoutez une courte description)
+- [Projet-1](https://github.com/Ugo-Pas/projet-1) — Description courte — Tech : Node.js, Express
+- [Projet-2](https://github.com/Ugo-Pas/projet-2) — Description courte — Tech : React, TypeScript
+
+(Epinglez vos meilleurs dépôts sur votre profil pour qu'ils apparaissent ici)
+
+---
+
+## Statistiques
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ugo-Pas&layout=compact&theme=radical)
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Ugo-Pas&show_icons=true&theme=radical)
+
+---
+
+## Contact
+- ✉️ Email : votre.email@example.com
+- 💼 LinkedIn : [Votre profil](https://www.linkedin.com/in/votre-profil)
+- 🌍 Site / CV : https://votresite.example.com
+
+---
+
+## Pourquoi me suivre ?
+- Je partage des projets utiles, des tutoriels et des astuces pour améliorer la qualité du code.
+- Je collabore volontiers sur des projets open source et j'accepte les invitations à contribuer.
+
+---
+
+Merci d'être passé ici — n'hésitez pas à ouvrir une issue ou un sujet de discussion si vous voulez collaborer ! 🚀
