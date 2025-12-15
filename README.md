@@ -23,17 +23,14 @@ Développeur passionné par le code propre et les projets utiles. J'aime apprend
 ---
 
 ## Projets remarquables
-- [Ugo-pas](https://github.com/Ugo-Pas/Ugo-pas) — Dépôt principal / portfolio (ajoutez une courte description)
-- [Projet-1](https://github.com/Ugo-Pas/projet-1) — Description courte — Tech : Node.js, Express
-- [Projet-2](https://github.com/Ugo-Pas/projet-2) — Description courte — Tech : React, TypeScript
+- [Ugo-pas](https://github.com/Ugo-Pas/Ugo-pas) 
 
-(Epinglez vos meilleurs dépôts sur votre profil pour qu'ils apparaissent ici)
 
 ---
 
 ## Statistiques
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ugo-Pas&layout=compact&theme=radical)
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Ugo-Pas&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ugo-Pas&layout=compact&theme=radical)
 
 
 ---
