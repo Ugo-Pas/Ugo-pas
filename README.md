@@ -9,18 +9,16 @@ Développeur passionné par le code propre et les projets utiles. J'aime apprend
 ---
 
 ## À propos de moi
-- 🔭 Je travaille sur : projets web et outils en [votre langage principal]
-- 🌱 J'apprends : [ex : TypeScript, Kubernetes, ML…]
-- 💬 Demandez-moi à propos de : architecture, APIs, bonnes pratiques
-- ⚡ Centre d'intérêt : automatisation, productivité, qualité du code
+- 🔭 Etudiant Epitech
+- 🌱 J'apprends : C, Python,
+- ⚡ Centre d'intérêt : Jeux video, IA
 
 ---
 
 ## Compétences
-- Langages : JavaScript, TypeScript, Python, (remplacez selon vos langages)
-- Frameworks & outils : Node.js, React, Express, Docker, Git
-- Tests & CI : Jest, GitHub Actions
-- Bonnes pratiques : TDD, revue de code, documentation
+- Langages : C, Python,
+- Frameworks & outils : Git, VScode
+- Bonnes pratiques : revue de code, documentation
 
 ---
 
@@ -37,12 +35,6 @@ Développeur passionné par le code propre et les projets utiles. J'aime apprend
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ugo-Pas&layout=compact&theme=radical)
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Ugo-Pas&show_icons=true&theme=radical)
 
----
-
-## Contact
-- ✉️ Email : votre.email@example.com
-- 💼 LinkedIn : [Votre profil](https://www.linkedin.com/in/votre-profil)
-- 🌍 Site / CV : https://votresite.example.com
 
 ---
 
