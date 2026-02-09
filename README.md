@@ -32,8 +32,15 @@ Développeur passionné par le code propre et les projets utiles. J'aime apprend
 ---
 
 ## 📊 Statistiques GitHub
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Ugo-Pas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ugo-Pas&layout=compact&theme=tokyonight&hide_border=true)
+
+[![GitHub Stats](https://img.shields.io/badge/Repos-Publics-blue?style=for-the-badge&logo=github)](https://github.com/Ugo-Pas?tab=repositories)
+[![Contributions](https://img.shields.io/badge/Contributions-Actif-green?style=for-the-badge&logo=git)](https://github.com/Ugo-Pas)
+[![Languages](https://img.shields.io/badge/Langages-C%20%7C%20Python-orange?style=for-the-badge&logo=code)](https://github.com/Ugo-Pas)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ugo-Pas&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ugo-Pas&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ugo-Pas&theme=tokyonight)
 
 ---
 
