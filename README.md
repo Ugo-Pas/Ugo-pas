@@ -24,6 +24,7 @@ Développeur passionné par le code propre et les projets utiles. J'aime apprend
 
 ## Projets remarquables
 - [Ugo-pas](https://github.com/Ugo-Pas/Ugo-pas) 
+- [Application_meteo_ski](https://github.com/Ugo-Pas/Application_meteo_ski) - Application pour skieurs avec notifications de chutes de neige et risques d'avalanche
 - [Extinct](https://github.com/Ugo-Pas/Extinct---GAMEJAM)
 - [Cipher](https://github.com/Ugo-Pas/Cipher)
 - [My_hunter](https://github.com/Ugo-Pas/My_hunter)
