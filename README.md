@@ -27,7 +27,8 @@ Développeur passionné par le code propre et les projets utiles. J'aime apprend
 - [Application_meteo_ski](https://github.com/Ugo-Pas/Application_meteo_ski) - Application pour skieurs avec notifications de chutes de neige
 - [Extinct](https://github.com/Ugo-Pas/Extinct---GAMEJAM) - Jeu d'horreur développé pendant une Game Jam
 - [Cipher](https://github.com/Ugo-Pas/Cipher) - Outil simple de chiffrement et déchiffrement de chaînes de caractères à l’aide d’une clé.
-
+- [Cuddle](https://github.com/Ugo-Pas/Cuddle) - Développement d’une bibliothèque en C inspirée de pandas, permettant la manipulation et l’analyse de données.
+  
 ---
 
 ## 📊 Statistiques GitHub
