@@ -10,7 +10,7 @@ Développeur passionné par le code propre et les projets utiles. J'aime apprend
 
 ## À propos de moi
 - 🔭 Etudiant Epitech
-- 🌱 J'apprends : C, Python,
+- 🌱 J'apprends : C, Python, Lua, 
 - ⚡ Centre d'intérêt : Jeux video, IA
 
 ---
